@@ -21,7 +21,6 @@ for i in a:
     for x in str(i):
         count = count+int(x)
     new.append(count)
-print(new)
 
 
 

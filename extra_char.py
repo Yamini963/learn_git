@@ -1,4 +1,4 @@
-s = "dwmodizxvvbosxxw"
+s = "yamini"
 dictionary = ["ox","lb","diz","gu","v","ksv","o","nuq","r","txhe","e","wmo","cehy","tskz","ds","kzbu"]
 new = []
 for i in set(dictionary):

@@ -22,6 +22,7 @@ for i in a:
         count = count+int(x)
     new.append(count)
 
+print(len(a))
 
 
 

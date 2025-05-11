@@ -23,6 +23,7 @@ for i in a:
     new.append(count)
 print(new)
 
+print(len(a))
 
 
 
